@@ -32,8 +32,8 @@ Because Personal Knowledge Management is usually (as it name states) _highly_ pe
 	- Scroll down to the `Templates` settings under the `PLUGIN OPTIONS` header and set `Template folder location` option to `00 - Contribute to the Obsidian Hub/01 Templates`
 - **Folders**: We have roughly pre-defined the structure of the vault using Johnny Decimal-ish prefixes. *Before adding new folders, please open an issue to discuss the changes you'd like to propose. *
 
-Now that you have configured Obsidian, you are ready to do your first contribution! Have a look at the [[#The Main Folders|types of contributions]], and depending on what you want to contribute open the linked note for further instructions.
-Once you have added or edited the note using Obsidian, come back and check out [[#Submitting|Submitting your contribution]].
+Now that you have configured Obsidian, you are ready to do your first contribution! Have a look at the [[#The Main Folders|Types of contributions]], and depending on what you want to contribute open the linked note for further instructions.
+Once you have added or edited the note using Obsidian, come back and check out [[#Submitting|submitting your contribution]].
 
 ## Structure of the Community Vault
 
@@ -101,7 +101,7 @@ Please turn on the spellchecking when you are writing longer bits. 🙂 (And onl
 
 ### Submitting
 
-==Before submission, remember to revert the Community Vault to its basic settings, e.g. remove installed plugins, turn on spellchecking, and change any other unusual settings back to how they previously were.== Most importantly, this concerns the [[CONTRIBUTING#Setup Vault Consistency|settings relevant to Vault consistency mentioned above]].
+Before [[#Submitting|submission]], remember to revert the Community Vault to its basic settings, e.g. remove installed plugins, turn on spellchecking, and change any other unusual settings back to how they previously were.== Most importantly, this concerns the [[CONTRIBUTING#Setup Vault Consistency|settings relevant to Vault consistency mentioned above]].
 
 If you know how to use git and GitHub, go on and make a pull request. Otherwise you might be interested in reading [[How to add content through GitHub]] (we've tried to make it as friendly and assume as little background knowledge as possible!).
 
